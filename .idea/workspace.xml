@@ -20,18 +20,13 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:side" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62bde5bb-82cd-4ab8-bf8e-77a3ea666baa" name="默认的" comment="v0">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitDemo1Java/GitDemo1Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitDemo1Java/src/GitDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GitDemo1Java/GitDemo1.class" beforeDir="false" />
+    <list default="true" id="62bde5bb-82cd-4ab8-bf8e-77a3ea666baa" name="默认的" comment="v0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitDemo1Java/src/GitDemo1Java2" beforeDir="false" afterPath="$PROJECT_DIR$/GitDemo1Java/src/GitDemo1Java2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="bugFix" />
+        <entry key="$PROJECT_DIR$" value="6287e5a226e07c8ab3692e3af9969d801537b644" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -74,6 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.GitDemo1" />
+        <item itemvalue="应用程序.GitDemo1" />
         <item itemvalue="应用程序.GitDemo1" />
       </list>
     </recent_temporary>
@@ -103,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595562679726</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v0">
+      <created>1595563783364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595563783364</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,19 +141,7 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="side" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -177,9 +170,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v0" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0" />
+    <MESSAGE value="v0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="500" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595563931604">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="500" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1595563931604" />
     <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1595562375987">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -208,9 +206,9 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="492" y="330" key="git4idea.ui.GitResetDialog/0.0.1368.872@0.0.1368.872" timestamp="1595563206229" />
-    <state x="213" y="46" key="new project wizard" timestamp="1595561414571">
+    <state x="213" y="46" key="new project wizard" timestamp="1595563747223">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="213" y="46" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1595561414571" />
+    <state x="213" y="46" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1595563747223" />
   </component>
 </project>
